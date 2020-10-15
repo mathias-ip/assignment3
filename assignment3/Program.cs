@@ -6,7 +6,7 @@ namespace assignment3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("fuck jer dregne!!);
+            Console.WriteLine("fuck jer drenge!!");
           
         }
     }
