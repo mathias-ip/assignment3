@@ -6,7 +6,9 @@ namespace assignment3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("peters World!");
+            Console.WriteLine("petersiqjwfioslnv World!");
+            Console.WriteLine("nanana Peter får ingenting frem");
+          
         }
     }
 }
