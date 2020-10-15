@@ -8,6 +8,7 @@ namespace assignment3
         {
             Console.WriteLine("petersiqjwfioslnv World!");
             Console.WriteLine("nanana Peter får ingenting frem");
+            Console.WriteLine("test2");
           
         }
     }
